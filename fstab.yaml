@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "https://author-p9606-e71993.adobeaemcloud.com/bin/franklin.delivery/riteshamarnath/edge-getting-started/main"
+    url: "https://author-p9606-e71941.adobeaemcloud.com/bin/franklin.delivery/riteshamarnath/edge-getting-started/main"
     type: "markup"
     suffix: ".html"
